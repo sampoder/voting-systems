@@ -9,7 +9,7 @@ const Meta = ({
   name = 'Exploring Electoral Systems', // site name
   description = 'Experimenting with how different electoral systems would shape Australia\'s parliament.', // page description
   image = 'https://cloud-lovz3afht-hack-club-bot.vercel.app/0facebook_post_-_3.png', // social card image URL
-  url = 'https://next-theme-starter.vercel.app',
+  url = 'https://voting-systems.vercel.app',
   children,
 }) => (
   <Head>
