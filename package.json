@@ -16,7 +16,7 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-tooltip": "^4.2.19",
-    "theme-ui": "^0.8.4",
+    "theme-ui": "^0.14.2",
     "theme-ui-preset-geist": "^0.0.2"
   }
 }
