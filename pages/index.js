@@ -158,7 +158,7 @@ const Named = () => {
   let totalThresholdVotes = 0
 
   rankedProportionalPartyResults.map(x => {
-    if (x.votes / totalVotes > 0.05) {
+    if (x.votes / totalVotes > 0.00) {
       totalThresholdVotes += x.votes
     }
   })
