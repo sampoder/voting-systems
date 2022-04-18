@@ -10,7 +10,7 @@
   "dependencies": {
     "@geist-ui/react-icons": "^1.0.1",
     "@mdx-js/loader": "^1.6.22",
-    "@next/mdx": "^10.2.2",
+    "@next/mdx": "^12.1.5",
     "lodash": "^4.17.21",
     "next": "^10.2.2",
     "react": "^17.0.2",
